@@ -30,5 +30,3 @@ https://github.com/onfido/k8s-cleanup
 Todos méritos a ele que fez. 
 
 Porém tem alguns erros e itens desatualizados, foi corrigido e coloquei a disposição no curso.
-
-https://www.udemy.com/course/devops-mao-na-massa-docker-kubernetes-rancher
